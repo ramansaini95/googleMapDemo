@@ -9,5 +9,7 @@ target 'googleMapDemo' do
  pod ‘GoogleMaps’
 
  pod ‘GooglePlaces’
+  pod 'Alamofire'
+pod 'SwiftyJSON'
 
 end
